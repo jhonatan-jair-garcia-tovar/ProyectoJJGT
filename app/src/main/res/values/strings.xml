@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ProyectoJJGT</string>
+    <string name="escuela">Tecnologico De Estudios Superiores del Oriente del Estado de México</string>
+    <string name="alumno">Garcia Tovar Jhonatan Jair</string>
+    <string name="carrera">Ingenieria en Sistemas Computacionales</string>
+    <string name="grupo">7S11</string>
+    <string name="matricula">101610059</string>
+    <string name="nombreProyecto">Tipos de Cartas de Yu-Gi-Ho</string>
+    <string name="tituloMenuPrincipal">Menu Principal</string>
+
+
+    <string name="mounstruoT">Cartas de mounstruo</string>
+    <string name="fusion">Cartas de Fusion</string>
+    <string name="ritual">Cartas de Ritual</string>
+    <string name="sincro">Cartas de Sincronia</string>
+    <string name="xyz">Cartas de XYZ</string>
+    <string name="magica">Cartas Magicas</string>
+    <string name="trampa">Cartas de Trampa</string>
+    <string name="acercaDe">acerca de</string>
+    <string name="autor_jhonayan_jair_garcia_tovar">autor:jhonayan jair garcia tovar</string>
+    <string name="ide_andorid_studio">IDE: andorid studio</string>
+    <string name="regresar">Regresar</string>
+    <string name="salir">Salir</string>
+    <string name="textMagicas">son de color verde y pueden tener uno o varios efectos que afectan un duelo, suelen tener efectos que benefician al dueño o perjudican al oponente, ademas solo pueden ser activadas en tu turno pero pueden activarse todas las posibles.</string>
+    <string name="textTrampa">son cartas de color puerpura y pueden tener varios efectos que benefician o afectan a uno de los jugadores se colocan en la zona de cartas magicas y de trampa y no pueden ser activadas dusrante el turno en el que son colocadas.</string>
+    <string name="testFusion">son mounstruos formados por la union de uno o mas mounstruos, la carta es de color purpura y al igual que la invocacion por sincronia, es una invocacion especial asi que pueden ser invocacos cuantas veces sea posible.</string>
+    <string name="textSincro">son cartas de color blanco plateado y se encuantran en el deck extra desde el cual deben ser ivocados por una invocacion por sincronia utilizando un mounstruo cantante y uno o mas mounstruos que no sean cantantes y cuyon niveles sumen el nven del mounstruo que se desea invocar.</string>
+    <string name="textXyz">son cartas de color negro que se almacenan en el deck extra, y deben ser invocadas desde hay con una invocacion xyz, usando los mounstruos que indique la carta y que posean el mismo numero de nivel que el rango del mounstruo a invocar, si un mounstruo xyz es destruido no es mandado al cementero si no que es devuelto al deck extra, los mounstruos usados para la invocacion xyz son puestos debajo del mounstruo invocado y se llaman recubrimientos.</string>
+
+
+</resources>
